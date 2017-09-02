@@ -1,0 +1,15 @@
+.idea
+.DS_Store
+Thumbs.db
+bower_components
+**/node_modules/
+dist
+rev
+adb
+*.log
+*.orig
+!.bowerrc
+!.editorconfig
+!.gitignore
+!.npmignore
+!.versions
